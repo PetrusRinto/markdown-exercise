@@ -1,6 +1,8 @@
 # Daily Learning
 
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 - [ ] Finish at least 2 modules
 - [ ] Finsih a practice session on Brilliant
 - [ ] List 5 things you did today and are proud of
